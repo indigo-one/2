@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.items {
+  display: flex;
+}
+.item {
+  width: 200px;
+  height: 200px;
+  background-color: #eee;
+  margin: 20px;
+}
